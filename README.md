@@ -1,11 +1,8 @@
 # K-D Tree 
-Project: K-D tree
-
-Author: Yun-Chen Lee yclee@arch.nycu.edu.tw
-
-Date: 2024/04/14
-
-Description:
+* Project: K-D tree
+* Author: Yun-Chen Lee yclee@arch.nycu.edu.tw
+* Date: 2024/04/14
+* Description:
 1. Build K-D Tree
 2. Draw K-D Tree
 3. Search the Closet Point in K-D Tree
