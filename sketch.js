@@ -185,7 +185,7 @@ function draw() {
     circle(0, 0, 10);
     textSize(11);
     textAlign(CENTER)
-    text("(" + mouseX + "," + mouseY + ")", 0, -8);
+    text("(" + int(mouseX) + "," + int(mouseY) + ")", 0, -8);
     pop();
 
 
