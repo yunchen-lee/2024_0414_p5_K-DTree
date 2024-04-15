@@ -9,7 +9,7 @@
   3. Search the Closet Point in K-D Tree
   ```
 
-![image](https://github.com/yunchen-lee/2024_0414_p5_K-DTree/blob/main/3.gif)
+  ![image](https://github.com/yunchen-lee/2024_0414_p5_K-DTree/blob/main/3.gif)
 
 ---
 ### Reference
